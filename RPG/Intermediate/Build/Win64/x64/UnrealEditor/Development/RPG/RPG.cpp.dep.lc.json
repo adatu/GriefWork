@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\document\\unreal projects\\griefwork\\rpg\\intermediate\\source\\rpg.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\document\\unreal projects\\griefwork\\rpg\\intermediate\\build\\win64\\x64\\rpgeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\document\\unreal projects\\griefwork\\rpg\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\rpg\\definitions.rpg.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
